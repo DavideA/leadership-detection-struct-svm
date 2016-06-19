@@ -1,7 +1,9 @@
-# leadership-detection-struct-svm
-An algorithm to detect leaders in social groups, based on Structural Support Vector Machines
+# Structural SVM leadership detection
 
-This work is part of my group's Machine Learning assignment in my master's.
+This work is part of my Machine Learning assignment in my master's. The aim of the project was to understand the concept of structured learning, and to apply it to learn how to recognize leaders in social groups moving in a crowd of people.
 
-More details soon, by now you can check the demo video:
-https://youtu.be/XRNe_qRAifk
+In particular, my group and I developed this Matlab software that takes advantage of time-lag features, Pagerank graph analysis and Structural Support Vector Machines. 
+
+A detailed description of the algorithm can be found in this [draft paper](http://www.davideabati.com/resources/leaders.pdf).
+
+A [demonstration video](https://youtu.be/XRNe_qRAifk) is available on YouTube.
